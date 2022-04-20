@@ -1,7 +1,7 @@
 # Simpsons-paradox-in-the-NBA
 ## Summary 
 
-[Simpson's paradox on Wikipedia](https://en.wikipedia.org/wiki/Simpson%27s_paradox) arises in a variety of settings where statistics are present. Here, I dive into a look into instances of it in NBA shooting data. I expect it to be heavily present because of the differences in playing styles and difficulties of certain shots. Specifically, three pointers are harder to make than two pointers, and the best shooters shoot them more than worse shooters, so we should see a bunch of examples of pairs of players, say player A & player B, where player A is a shooter and shoots lots of 2s and shoots both 2s and 3s at a higher percentage than player B, but since a bigger proportion of player B's shots are 3s, player A has a higher overall FG%.
+[Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox) arises in a variety of settings where statistics are present. Here, I dive into a look into instances of it in NBA shooting data. I expect it to be heavily present because of the differences in playing styles and difficulties of certain shots. Specifically, three pointers are harder to make than two pointers, and the best shooters shoot them more than worse shooters, so we should see a bunch of examples of pairs of players, say player A & player B, where player A is a shooter and shoots lots of 2s and shoots both 2s and 3s at a higher percentage than player B, but since a bigger proportion of player B's shots are 3s, player A has a higher overall FG%.
 
 Since I think there will be many cases of this, I'll only look at instances within the top scorers in the league, considering only the pairs of players within the top 25 scores.
 
